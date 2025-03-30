@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IcomMediaDisplay", "IcomMediaDisplay\IcomMediaDisplay.csproj", "{DB6B35B9-D3AC-4FC6-A084-7646D1AE9014}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mediaViewer", "IcomMediaDisplay\mediaViewer.csproj", "{DB6B35B9-D3AC-4FC6-A084-7646D1AE9014}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
